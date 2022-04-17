@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.95c09645.css","mappings":"AAAA,cACI,sBAAuB,CACvB,YACJ,CAEA,OAEI,oBAAqB,CADrB,YAEJ","sources":["components/notification.css"],"sourcesContent":[".notification {\n    background-color: green;\n    padding: 10px;\n}\n\n.error {\n    padding: 10px;\n    background-color: red;\n}"],"names":[],"sourceRoot":""}

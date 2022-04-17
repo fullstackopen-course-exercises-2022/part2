@@ -1,0 +1,9 @@
+.notification {
+    background-color: green;
+    padding: 10px;
+}
+
+.error {
+    padding: 10px;
+    background-color: red;
+}
